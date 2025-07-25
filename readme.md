@@ -1,0 +1,1 @@
+# This is a simple and responsive design card built using HTML and CSS.
